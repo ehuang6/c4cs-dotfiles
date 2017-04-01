@@ -1,0 +1,11 @@
+# SFTP configuration #
+###################
+sftp-config.json
+
+# Given header files #
+###################
+
+# Other #
+###################
+*.out
+*DO_NOT_SUBMIT*

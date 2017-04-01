@@ -1,0 +1,5 @@
+# CAEN
+Host elhuang
+	HostName login.engin.umich.edu
+	User elhuang
+	Compression yes
